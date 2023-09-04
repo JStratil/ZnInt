@@ -1,2 +1,0 @@
-# ZnInt
-Test Zenodo Integration
