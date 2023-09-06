@@ -1,5 +1,3 @@
-# This CITATION.cff file was generated with cffinit.
-# Visit https://bit.ly/cffinit to generate yours today!
 
 cff-version: 1.2.0
 title: AdA Filmontology Annotation Data
@@ -13,6 +11,8 @@ authors:
     affiliation: Freie Universität Berlin
   - given-names: Matthias
     family-names: Grotkopp
+    orcid: https://orcid.org/0000-0002-0954-3111
+    email: m.grotkopp@fu-berlin.de
     affiliation: Freie Universität Berlin
   - given-names: Thomas
     family-names: Scherer
@@ -51,7 +51,7 @@ abstract: >
   Creative
     Commons Attribution-ShareAlike 3.0 License.
 
-    **Further explanations of the data can be found on our
+    **The data can be accessed also at the project’s public GitHub repository: https://github.com/ProjectAdA/public Further explanations of the data can be found on our
     AdA project website: https://projectada.github.io/. 
   See also the peer-reviewed data paper for this dataset
   that is in review to be published in NECSUS_European
